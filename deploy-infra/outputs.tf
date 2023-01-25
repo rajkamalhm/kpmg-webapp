@@ -1,3 +1,3 @@
 output "alb-dns-name" {
-  value = aws_alb.fp-alb.dns_name
+  value = aws_alb.hn-alb.dns_name
 }
